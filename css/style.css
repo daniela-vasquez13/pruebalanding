@@ -1,0 +1,152 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&family=Patua+One&display=swap');
+
+:root{
+	--color-header:#040404;
+	--color-hero:#292929;
+	--color-morado:#654682; 
+	--color-rojo:#f74f4c;
+	--color-amarillo-normal:#E2E001;
+}
+
+
+#header{
+background-color: #040404;
+}
+
+.navbar{
+color: #f74f4c;
+}
+
+#hero {
+	background-color: #292929;
+	padding: 200px 0px;
+}
+
+#hero h1{
+color: #aaa;
+}
+
+#hero p{
+color: #aaa;
+}
+
+.btn-principal{
+background-color: #f74f4c;
+color: #fff;
+border-radius: 25%;
+margin: 20px;
+}
+
+#features{
+background-color: #222222;
+padding: 20px 0px;
+}
+#features h1{
+color: #aaa;
+text-align: center;
+padding: 70px 0px;
+}
+
+#features p{
+color: #aaa;
+	text-align: center;
+padding: 1px 0;}
+
+#card1 .card-body {
+background-color: #654682;
+}
+
+#card2 .card-body {
+background-color: #f74f4c;
+}
+
+#card3 .card-body {
+background-color: #3dcec7;
+}
+
+#card4 .card-body {
+background-color: #f4c33a;
+}
+
+#features h2{
+color: #fff;
+}
+
+#card1 p {
+color:  #fff;
+}
+
+#card2 p {
+color:  #fff;
+}
+
+#card3 p {
+color:  #fff;
+}
+
+#card4 p{
+color: #fff;
+}
+
+#features2{
+padding: 50px 0px;
+background-color: #161616;
+}
+
+#features2 h1{
+color: #aaa;
+}
+
+#features2 h2{
+background-color: #f74f4c;
+color: #fff;
+font-weight: 100;
+font-size: 30px;
+margin-right: 120px;
+}
+
+#features2 h3{
+background-color: #f4c33a;
+color: #fff;
+font-weight: 100;
+margin-right: 120px;
+}
+#features2 p{
+color: #aaa;
+font-weight: 200;
+	padding: 5px 0px;
+}
+
+#features2 h5{
+color: #aaa;
+font-weight: 500;	
+}
+
+#features2 li{
+color: #aaa;
+padding: 20px 0;
+}
+
+#available{
+padding: 50px 0px;
+background-color: #f74f4c;
+color: #fff;
+}
+
+#form{
+background-color: #aaa;
+color: #f74f4c;
+padding: 50px 0px;
+}
+
+.btn-primary{
+background-color: #f74f4c;
+border-color: #f74f4c;
+}
+
+footer{
+background-color: #111111;
+text-align: center;
+color: #fff;
+padding: 60px 0px;
+}
